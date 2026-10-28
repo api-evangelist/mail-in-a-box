@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mail-in-a-Box is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mailinabox.email/
+Mail-in-a-Box provides an easy-to-deploy, self-hosted mail server solution that includes a web-based control panel and a RESTful HTTP API for managing email accounts, DNS records, backups, and system monitoring. It aims to give users control over their email infrastructure while simplifying setup and maintenance.
+
+**Areas:** Company · Email · Self-hosted · Open-source · Automation · Privacy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mailinabox.email/)
+- [GitHub](https://github.com/JoshData)
+
+**APIs profiled:** 7
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mail-in-a-box/](https://apis.io/providers/mail-in-a-box/).
